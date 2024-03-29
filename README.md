@@ -1,0 +1,41 @@
+Hello! 👋 I'm MrDeybby, a passionate student of Artificial Intelligence and a novice programmer constantly seeking knowledge and experience. My main focus is on developing skills in computer vision, machine learning, and Python programming. I'm excited to contribute to the world of automation and AI with my projects.
+
+About Me
+
+💻 I am currently a student at the Instituto Tecnologico de las Americas.
+
+🌱 I am always learning and exploring new technologies related to Artificial Intelligence and programming.
+
+🚀 My goal is to make significant advancements in the field of automation and AI to make the world a better place.
+
+
+Areas of Interest
+
+🤖 Computer Vision
+
+🧠 Machine Learning
+
+📊 Data Processing
+
+🖥️ Software Development
+
+
+
+Featured Projects
+
+Project 1: [Project Name]: Brief description of the project and its objectives.
+
+
+Contact
+
+I would love to connect with you and collaborate on interesting projects! You can find me at:
+
+
+📧 Email: deybbyrosario@gmail.com
+
+🔗 LinkedIn: Deybby's LinkedIn Profile
+
+
+Don't hesitate to contact me if you have any questions, suggestions, or just want to chat about AI and programming! 😊
+
+Thank you for visiting my GitHub profile! 🚀
