@@ -23,8 +23,7 @@ Areas of Interest
 
 Featured Projects
 
-Project 1: [Project Name]: Brief description of the project and its objectives.
-
+Stellar-Spin: This C# program is a simple application that simulates a roulette wheel to randomly select two users from a group.
 
 Contact
 
