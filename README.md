@@ -33,7 +33,7 @@ I would love to connect with you and collaborate on interesting projects! You ca
 
 📧 Email: deybbyrosario@gmail.com
 
-🔗 LinkedIn: Deybby's LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/deybby-rosario/
 
 
 Don't hesitate to contact me if you have any questions, suggestions, or just want to chat about AI and programming! 😊
